@@ -1,0 +1,11 @@
+discord.py
+ffmpeg-python
+humanize
+SQLAlchemy
+urlextract
+parse
+catboxpy
+dpy-paginator
+yt-dlp
+aiohttp
+Pillow
